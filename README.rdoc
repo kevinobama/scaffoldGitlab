@@ -1,0 +1,21 @@
+rails g scaffold Project name:string describle:text
+
+While you're developing Rails applications, especially those which are mainly providing you with a simple interface to data in a database, it can often be useful to use the scaffold method.
+
+Scaffolding provides more than cheap demo thrills. Here are some benefits −
+
+You can quickly get code in front of your users for feedback.
+
+You are motivated by faster success.
+
+You can learn how Rails works by looking at the generated code.
+
+You can use scaffolding as a foundation to jump start your development.
+
+Scaffolding Example
+
+To understand scaffolding, let's create a database called cookbook and a table called recipes.
+
+Creating an Empty Rails Web Application
+
+Open a command window and navigate to where you want to create this cookbook web application. So, run the following command to create a complete directory structure
